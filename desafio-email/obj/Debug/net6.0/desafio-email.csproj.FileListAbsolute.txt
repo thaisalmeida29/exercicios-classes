@@ -1,0 +1,15 @@
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\bin\Debug\net6.0\desafio-email.exe
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\bin\Debug\net6.0\desafio-email.deps.json
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\bin\Debug\net6.0\desafio-email.runtimeconfig.json
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\bin\Debug\net6.0\desafio-email.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\bin\Debug\net6.0\desafio-email.pdb
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.csproj.AssemblyReference.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.AssemblyInfoInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.AssemblyInfo.cs
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.csproj.CoreCompileInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\refint\desafio-email.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.pdb
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\desafio-email.genruntimeconfig.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-email\obj\Debug\net6.0\ref\desafio-email.dll

@@ -1,0 +1,15 @@
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\bin\Debug\net6.0\desafio-aula-26-05.exe
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\bin\Debug\net6.0\desafio-aula-26-05.deps.json
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\bin\Debug\net6.0\desafio-aula-26-05.runtimeconfig.json
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\bin\Debug\net6.0\desafio-aula-26-05.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\bin\Debug\net6.0\desafio-aula-26-05.pdb
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.csproj.AssemblyReference.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.AssemblyInfoInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.AssemblyInfo.cs
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.csproj.CoreCompileInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\refint\desafio-aula-26-05.dll
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.pdb
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\desafio-aula-26-05.genruntimeconfig.cache
+C:\Users\thais-almeida\Documents\workspace\exercicio-orientacao-objetos\desafio-aula-26-05\obj\Debug\net6.0\ref\desafio-aula-26-05.dll
